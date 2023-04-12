@@ -5,6 +5,7 @@
 ![Snake animation](https://github.com/Rins13/Rins13/blob/output/github-contribution-grid-snake.svg)
 
 <!--
+
 **Rins13/Rins13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
